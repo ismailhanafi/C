@@ -204,3 +204,4 @@ void ft_level_up(int *level, int *xp, int xp_needed){
         *(level)++;
     }
 }
+
